@@ -12,5 +12,5 @@ actions:
     label: Learn More
     url: '#one'
 img:
-  path: images/screen.jpg
-  phone_border: true
+  path: /images/logo-alba-fundo-cor.png
+  phone_border: false
