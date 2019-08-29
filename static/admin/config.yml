@@ -22,6 +22,7 @@ collections:
             required: true
             hint: The color palette used in the theme
             options:
+              - alba
               - blue
               - magenta
               - purple
