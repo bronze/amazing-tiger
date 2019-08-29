@@ -2,6 +2,11 @@
   "title": "Alba Capital",
   "palette": "blue",
   "palettes": {
+    "alba": {
+      "sass": {
+        "color": "#003D43"
+      }
+    },
     "blue": {
       "sass": {
         "color": "#4696e5"
