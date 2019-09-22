@@ -18,15 +18,15 @@ sections:
   - component: Spotlights
     icons:
       - icon: fa-camera-retro
-        title: Ipsum lorem accumsan
+        title: ESG
       - icon: fa-refresh
-        title: Sed vehicula elementum
+        title: Impact Investing
       - icon: fa-cloud
-        title: Elit fusce consequat
+        title: Unique view
       - icon: fa-code
-        title: Lorem nullam tempus
+        title: Search Fund
       - icon: fa-desktop
-        title: Adipiscing amet sapien
+        title: Core non-traditional thesis
     section_id: two
     spotlights:
       - image: images/pic01.jpg
@@ -52,17 +52,11 @@ sections:
         is_scrolly: false
         label: Download
         url: '#'
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /elements
     background_style: style2
     component: Cta
     section_id: three
-    subtitle: |-
-      Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula  
-      lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.
-    title: Magna leo sapien gravida
+    subtitle: São Paulo based with a global footprint. Contact us for more information
+    title: Alba Capital
     type: cta
 template: home
 ---
